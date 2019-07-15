@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://39.107.88.27:7758/Download/海林麻将.ipa</string>
+					<string>http://39.107.88.27:7758/Download/hailin.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.byqpyx.mdmgame</string>
+				<string>com.xuhao.hl</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>海林麻将</string>
+				<string>天天娱乐城</string>
 			</dict>
 		</dict>
 	</array>
