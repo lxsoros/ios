@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://58.64.167.41:8002/Download/baoying.ipa</string>
+					<string>http://58.64.167.41:7758/Download/ios/baoying.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://58.64.167.41:8002/Download/image57.png</string>
+					<string>http://58.64.167.41:7758/Download/ios/image57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://58.64.167.41:8002/Download/image152.png</string>
+					<string>http://58.64.167.41:7758/Download/ios/image152.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
