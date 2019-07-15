@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://58.64.167.41:7758/Download/ios/image57.png</string>
+					<string>https://www.baidu.com</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://58.64.167.41:7758/Download/ios/image152.png</string>
+					<string>https://www.baidu.com</string>
 				</dict>
 			</array>
 			<key>metadata</key>
